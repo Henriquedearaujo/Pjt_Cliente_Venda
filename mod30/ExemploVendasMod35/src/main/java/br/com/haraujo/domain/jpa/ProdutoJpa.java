@@ -1,7 +1,7 @@
 
 package br.com.haraujo.domain.jpa;
 
-import br.com.haraujo.dao.Persistente;
+import br.com.haraujo.dao.jpa.Persistente;
 
 import javax.persistence.*;
 import java.math.BigDecimal;

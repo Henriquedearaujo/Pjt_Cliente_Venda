@@ -6,7 +6,7 @@ package br.com.haraujo.domain;
 import anotacao.ColunaTabela;
 import anotacao.Tabela;
 import anotacao.TipoChave;
-import br.com.haraujo.dao.Persistente;
+import br.com.haraujo.dao.jpa.Persistente;
 
 @Tabela("TB_CLIENTE")
 public class Cliente implements Persistente {

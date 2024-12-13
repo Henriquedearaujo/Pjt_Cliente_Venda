@@ -7,6 +7,6 @@ import br.com.haraujo.dao.generic.jpa.IGenericJapDAO;
 import br.com.haraujo.domain.jpa.ClienteJpa;
 
 
-public interface IClienteJpaDAO extends IGenericJapDAO<ClienteJpa, Long>{
+public interface IClienteJpaDAO<T extends Persistente> extends IGenericJapDAO<T, Long>{
 
 }

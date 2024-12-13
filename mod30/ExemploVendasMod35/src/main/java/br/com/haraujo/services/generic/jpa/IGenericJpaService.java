@@ -3,7 +3,7 @@
  */
 package br.com.haraujo.services.generic.jpa;
 
-import br.com.haraujo.dao.Persistente;
+import br.com.haraujo.dao.jpa.Persistente;
 import br.com.haraujo.exceptions.DAOException;
 import br.com.haraujo.exceptions.MaisDeUmRegistroException;
 import br.com.haraujo.exceptions.TableException;

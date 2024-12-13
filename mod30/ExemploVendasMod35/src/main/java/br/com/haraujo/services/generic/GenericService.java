@@ -6,7 +6,7 @@ package br.com.haraujo.services.generic;
 import java.io.Serializable;
 import java.util.Collection;
 
-import br.com.haraujo.dao.Persistente;
+import br.com.haraujo.dao.jpa.Persistente;
 import br.com.haraujo.dao.generic.IGenericDAO;
 import br.com.haraujo.exceptions.DAOException;
 import br.com.haraujo.exceptions.MaisDeUmRegistroException;

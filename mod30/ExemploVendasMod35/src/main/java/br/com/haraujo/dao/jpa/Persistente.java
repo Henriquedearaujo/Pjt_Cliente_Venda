@@ -1,4 +1,4 @@
-package br.com.haraujo.dao;
+package br.com.haraujo.dao.jpa;
 
 /**
  * @author rodrigo.pires

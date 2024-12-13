@@ -12,7 +12,7 @@ import java.util.Set;
 import anotacao.ColunaTabela;
 import anotacao.Tabela;
 import anotacao.TipoChave;
-import br.com.haraujo.dao.Persistente;
+import br.com.haraujo.dao.jpa.Persistente;
 
 /**
  * @author rodrigo.pires

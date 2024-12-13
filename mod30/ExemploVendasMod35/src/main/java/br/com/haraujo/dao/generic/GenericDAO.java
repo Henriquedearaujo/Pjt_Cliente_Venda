@@ -17,7 +17,7 @@ import java.util.List;
 import anotacao.ColunaTabela;
 import anotacao.Tabela;
 import anotacao.TipoChave;
-import br.com.haraujo.dao.Persistente;
+import br.com.haraujo.dao.jpa.Persistente;
 import br.com.haraujo.dao.generic.jdbc.ConnectionFactory;
 import br.com.haraujo.exceptions.DAOException;
 import br.com.haraujo.exceptions.MaisDeUmRegistroException;
